@@ -66,7 +66,7 @@ stock-price-predictor/
 ├── predict_live.py        # Real-time prediction script
 ├── utils.py               # Utility functions for model management
 ├── main.py                # Simplified training workflow
-├── notebook.py            # Interactive analysis and visualization
+├── notebook.ipynb          # Interactive analysis and visualization
 └── README.md              # Project documentation
 ```
 ```
