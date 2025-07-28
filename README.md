@@ -54,4 +54,24 @@ This project combines the power of machine learning with traditional technical a
 - **Plotly**: Interactive charting capabilities
 
 ## 📁 Project Structure
-    ![alt text](image.png)
+    
+```
+stock-price-predictor/
+│
+├── config.py              # Configuration settings and parameters
+├── data_fetcher.py         # Yahoo Finance data collection module
+├── feature_engineer.py     # Technical indicators and feature creation
+├── model_trainer.py        # ML model training and validation
+├── predictor.py           # Core prediction engine
+├── predict_live.py        # Real-time prediction script
+├── utils.py               # Utility functions for model management
+├── main.py                # Simplified training workflow
+├── notebook.py            # Interactive analysis and visualization
+└── README.md              # Project documentation
+```
+```
+
+
+## ⚠️ Risk Disclaimer
+
+**Important Notice**: This project is for educational and research purposes only. Stock market investments carry inherent risks, and predictions may not always be accurate.
