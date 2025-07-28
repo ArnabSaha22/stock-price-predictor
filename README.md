@@ -74,4 +74,4 @@ stock-price-predictor/
 
 ## ⚠️ Risk Disclaimer
 
-**Important Notice**: This project is for educational and research purposes only. Stock market investments carry inherent risks, and predictions may not always be accurate.
+This project is for educational and research purposes only. Stock market investments carry inherent risks, and predictions may not always be accurate.
